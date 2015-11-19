@@ -1,3 +1,12 @@
+#### Linux Serial Port
+
+```sh
+
+dmesg | grep tty
+
+```
+
+
 #### Bitnami wordpress
 https://wiki.bitnami.com/applications/bitnami_wordpress_stack
 
