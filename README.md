@@ -9,6 +9,15 @@ dmesg | grep tty
 
 ```
 
+```sh
+# pyserial install
+wget http://sourceforge.net/projects/pyserial/files/pyserial/2.7/pyserial-2.7.tar.gz
+tar xvfz pyserial-2.7.tar.gz
+cd pyserial-2.7
+python setup.py install
+
+```
+
 
 #### Bitnami wordpress
 https://wiki.bitnami.com/applications/bitnami_wordpress_stack
