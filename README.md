@@ -1,3 +1,8 @@
+#### 에너지 효율 관리 기자재 운용 규정
+   - 가전기기 효율등급 고시가 되어 있음
+   - 국가법령 정보 센터에서 다운로드 http://www.law.go.kr/main.html
+
+
 #### mac에서 oracle 접속(python : cx_Oracle)
 
 ```sh
